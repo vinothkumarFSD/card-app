@@ -1,0 +1,11 @@
+.cardContainer{
+    border: 1px solid green;
+    padding: 20px;
+    display: inline-block;
+    margin: 16px;
+}
+
+.cardContainer:hover{
+    border: 2px solid red;
+   
+}
