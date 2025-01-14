@@ -1,5 +1,4 @@
 import './App.css';
-import './App.css';
 
 //normal import method using 'curly braces{}'
 //import { Card } from './Card';
