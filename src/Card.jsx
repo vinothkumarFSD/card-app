@@ -23,7 +23,7 @@ const Card = () => {
                                     <li className="text-muted"><span className="fa-li"><i className="fas fa-times"></i></span>Monthly Status Reports</li>
                                 </ul>
                                 <div className="d-grid text-center">
-                                    <a href="#" className="btn btn-primary btn-block text-uppercase">Button</a>
+                                    <button className="btn btn-primary btn-block text-uppercase">Button</button>
                                 </div>
                             </div>
                         </div>
@@ -46,7 +46,7 @@ const Card = () => {
                                     <li className="text-muted"><span className="fa-li"><i className="fas fa-times"></i></span>Monthly Status Reports</li>
                                 </ul>
                                 <div className="d-grid text-center">
-                                    <a href="#" className="btn btn-primary btn-block text-uppercase">Button</a>
+                                    <button className="btn btn-primary btn-block text-uppercase">Button</button>
                                 </div>
                             </div>
                         </div>
@@ -69,7 +69,7 @@ const Card = () => {
                                     <li><span className="fa-li"><i className="fas fa-times"></i></span>Monthly Status Reports</li>
                                 </ul>
                                 <div className="d-grid text-center">
-                                    <a href="#" className="btn btn-primary btn-block text-uppercase">Button</a>
+                                    <button className="btn btn-primary btn-block text-uppercase">Button</button>
                                 </div>
                             </div>
                         </div>
